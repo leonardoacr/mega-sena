@@ -1,0 +1,54 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  background-color: rgb(33, 37, 41);
+}
+
+.container {
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: white;
+  margin: auto;
+}
+
+.box {
+  /* background-color: rgb(33, 37, 41); */
+  max-width: max-content;
+  margin: auto;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  margin-top: 5rem;
+  padding-bottom: 1rem;
+  border: 2px solid rgb(136, 138, 141);
+  border-radius: 16px;
+  display: block;
+}
+
+.header {
+  /* background-color: rgb(136, 138, 141); */
+  padding: 10px;
+  text-align: center;
+}
+
+h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 0;
+  padding: 0.2rem;
+}
+
+.past-results {
+  color: rgb(0, 212, 85);
+}
+
+.btn-box {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
