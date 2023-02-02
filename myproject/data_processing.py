@@ -14,7 +14,7 @@ sixth_position = import_data.sixth_position
 
 def sort_frequency(arr):
     frequency = dict(collections.Counter(arr))
-    return sorted(frequency.items(), key=lambda x: x[1], reverse=False)
+    return sorted(frequency.items(), key=lambda x: x[1], reverse=True)
 
 
 first_position_qty = sort_frequency(first_position)
