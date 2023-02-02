@@ -1,4 +1,4 @@
-#  <a href="https://codechallenge-1.onrender.com/">Lottery Generator</a>
+#  <a href="https://codechallenge-1.onrender.com/">Mega-Sena Generator</a>
 Learning a bit of Python & Django to make a generator for the lottery Mega-Sena (the biggest lottery game on Brazil), the random numbers consider 
 the 10 numbers that were most popular on the previous games and make a guess based on the best probabilities inside this range, also compares with previous games. 
 
